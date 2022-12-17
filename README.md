@@ -1,11 +1,11 @@
 <h1 align="center" >Hi 👋, I'm Jdiegox86</h1>
-<h3 align="center">A developer from Perú</h3>
+<h3 align="center">A developer from Perú </h3>
 
 - 🌱 I’m currently learning **Linux and Python for ethical hacking**
 
 - 👨‍💻 All of my projects are available at [www.jdiegox86.io](www.jdiegox86.io)
 
-- 📝 I regularly write articles on technology y algo más [https://medium.com/@jdiegox86](https://medium.com/@jdiegox86)
+- 📝 I regularly write articles on philosophy y algo más [https://medium.com/@jdiegox86](https://medium.com/@jdiegox86)
 
 - 📫 How to reach me **juandiegovallejos75@gmail.com**
 
