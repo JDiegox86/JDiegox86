@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Juan Diego Vallejos</h1>
+<h1 align="center">Hi 👋, I'm Jdiegox86</h1>
 <h3 align="center">A passionate frontend developer from Perú</h3>
 
 - 🌱 I’m currently learning **NodeJS, Deno and Python for ethical hacking**
 
 - 👨‍💻 All of my projects are available at [www.jdiegox86.io](www.jdiegox86.io)
 
-- 📝 I regularly write articles on technology and Cibersegurity [www.codigonexus.com](www.codigonexus.com)
+- 📝 I regularly write articles on technology and Cibersegurity [https://medium.com/@jdiegox86](https://medium.com/@jdiegox86)
 
-- 💬 Ask me about **Javascript, HTML or CSSS**
+- 💬 Ask me about **Javascript, HTML or CSS**
 
 - 📫 How to reach me **juandiegovallejos75@gmail.com**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/jdiegox86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jdiegox86" height="30" width="40" /></a>
+<a href="https://twitter.com/Jdiegox86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jdiegox86" height="30" width="40" /></a>
 <a href="https://medium.com/@jdiegox86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jdiegox86" height="30" width="40" /></a>
 </p>
 
