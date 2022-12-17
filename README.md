@@ -7,8 +7,6 @@
 
 - 📝 I regularly write articles on technology [https://medium.com/@jdiegox86](https://medium.com/@jdiegox86)
 
-- 💬 Ask me about **Javascript, HTML or CSS**
-
 - 📫 How to reach me **juandiegovallejos75@gmail.com**
 
 - ⚡ Fun fact **I'm like a sponge I like to absorb a little of everything**
