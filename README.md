@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [www.jdiegox86.io](www.jdiegox86.io)
 
-- 📝 I regularly write articles on technology and Cibersegurity [https://medium.com/@jdiegox86](https://medium.com/@jdiegox86)
+- 📝 I regularly write articles on technology [https://medium.com/@jdiegox86](https://medium.com/@jdiegox86)
 
 - 💬 Ask me about **Javascript, HTML or CSS**
 
