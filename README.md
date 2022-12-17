@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jdiegox86</h1>
-<h3 align="center">A passionate frontend developer from Perú</h3>
+<h3 align="center">A developer from Perú</h3>
 
 - 🌱 I’m currently learning **Nodejs, React and Nestjs**
 
