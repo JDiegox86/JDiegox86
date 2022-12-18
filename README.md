@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [www.jdiegox86.io](www.jdiegox86.io)
 
-- 📝 I regularly write articles about programming, philosophy and something else [https://medium.com/@jdiegox86](https://medium.com/@jdiegox86)
+- 📝 I regularly write articles about programming and something else [https://medium.com/@jdiegox86](https://medium.com/@jdiegox86)
 
 - 📫 How to reach me **juandiegovallejos75@gmail.com**
 
