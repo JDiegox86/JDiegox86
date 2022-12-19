@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Deno and Python**
 
-- 👨‍💻 All of my projects are available at [www.jdiegox86.io](www.jdiegox86.io)
-
 - 📝 I regularly write articles about programming and something else [https://medium.com/@jdiegox86](https://medium.com/@jdiegox86)
 
 - ⚡ Fun fact **I'm like a sponge I like to absorb a little of everything**
