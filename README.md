@@ -1,13 +1,11 @@
 <h1 align="center" >Hi 👋, I'm Jdiegox86</h1>
 <h3 align="center">A developer from Perú </h3>
 
-- 🌱 I’m currently learning **Linux and Python**
+- 🌱 I’m currently learning **Deno and Python**
 
 - 👨‍💻 All of my projects are available at [www.jdiegox86.io](www.jdiegox86.io)
 
 - 📝 I regularly write articles about programming and something else [https://medium.com/@jdiegox86](https://medium.com/@jdiegox86)
-
-- 📫 How to reach me **juandiegovallejos75@gmail.com**
 
 - ⚡ Fun fact **I'm like a sponge I like to absorb a little of everything**
 
