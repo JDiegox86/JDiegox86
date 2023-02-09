@@ -46,7 +46,7 @@ I have a deep interest in network communication, computer security and open sour
  ## Visitors :busts_in_silhouette:
  <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/jdiegox86/count.svg" />
+  <img src="https://profile-counter.glitch.me/juandiego/count.svg" />
 </p>
 
 <div align="center">
