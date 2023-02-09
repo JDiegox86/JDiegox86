@@ -9,7 +9,7 @@
 <a href="https://github.com/JDiegox86">
   <img align="left" alt="jd-vallejos Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://jdiegox86.medium.com/">
+<a href="https://medium.com/@nexus-blog86">
   <img align="left" alt="jd-vallejos Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <br/>
@@ -39,7 +39,7 @@ I have a deep interest in network communication, computer security and open sour
 
 <div align="left"><h2>Contact Me :speech_balloon:</h2></div>
 
-[![Twitter Badge](https://img.shields.io/badge/-@jdiegox86-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Jdiegox86)](https://twitter.com/Jdiegox86) [![Linkedin Badge](https://img.shields.io/badge/-JuanDiegoVallejos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jdvallejos)](https://www.linkedin.com/in/jdvallejos/) [![Gmail Badge](https://img.shields.io/badge/-juan.chura@tecsup.edu.pe-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juan.chura@tecsup.edu.pe)](mailto:juan.chura@tecsup.edu.pe) [![Medium Badge](https://img.shields.io/badge/-@jdiegox86-f9f048?style=flat-square&labelColor=f9f048&logo=medium&logoColor=black&link=https://jdiegox86.medium.com/)](https://jdiegox86.medium.com/)
+[![Twitter Badge](https://img.shields.io/badge/-@jdiegox86-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Jdiegox86)](https://twitter.com/Jdiegox86) [![Linkedin Badge](https://img.shields.io/badge/-JuanDiegoVallejos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jdvallejos)](https://www.linkedin.com/in/jdvallejos/) [![Gmail Badge](https://img.shields.io/badge/-juan.chura@tecsup.edu.pe-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juan.chura@tecsup.edu.pe)](mailto:juan.chura@tecsup.edu.pe) [![Medium Badge](https://img.shields.io/badge/-@nexusblog86-f9f048?style=flat-square&labelColor=f9f048&logo=medium&logoColor=black&link=https://nexus-blog86.medium.com/)](https://medium.com/@nexus-blog86/)
 
  </div>
  
