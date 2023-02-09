@@ -78,7 +78,7 @@ B.tech 3rd year Computer Science student. Currently working as a Contributor in 
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ashwanisng/count.svg" />
+  <img src="https://profile-counter.glitch.me/jdiegox86/count.svg" />
 </p>
 
 
