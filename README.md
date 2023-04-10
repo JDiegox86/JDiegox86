@@ -31,14 +31,10 @@ I have a deep interest in network communication, computer security and open sour
 <img src="https://github-readme-stats.vercel.app/api?username=jdiegox86&&show_icons=true&theme=radical&line_height=27&v=5" alt="jd-vallejoss GitHub Stats" />
 
 
+<!--
 <div align="left"><h2>Contact Me :speech_balloon:</h2></div>
 
 [![Twitter Badge](https://img.shields.io/badge/-@jdiegox86-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Jdiegox86)](https://twitter.com/Jdiegox86) [![Linkedin Badge](https://img.shields.io/badge/-JuanDiegoVallejos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://#)](https://#/) [![Gmail Badge](https://img.shields.io/badge/-juan.chura@tecsup.edu.pe-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juan.chura@tecsup.edu.pe)](mailto:juan.chura@tecsup.edu.pe) [![Medium Badge](https://img.shields.io/badge/-@nexusblog86-f9f048?style=flat-square&labelColor=f9f048&logo=medium&logoColor=black&link=https://fromnexus86.medium.com//)](https://fromnexus86.medium.com//)
 
  </div>
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
+-->
