@@ -9,7 +9,7 @@
 <a href="https://github.com/JDiegox86">
   <img align="left" alt="jd-vallejos Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="#">
+<a href="https://jdevps86.medium.com/">
   <img align="left" alt="jd-vallejos Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
 </a>
 <br/>
