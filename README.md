@@ -10,7 +10,7 @@
   <img align="left" alt="jd-vallejos Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="#">
-  <img align = "left"   alt = "jd-vallejos Medium"   width = "22px"   src = " https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg "   />
+  <img align="left" alt="jd-vallejos Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
 </a>
 <br/>
 <br/>
