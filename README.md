@@ -3,7 +3,7 @@
  <a href="#">
   <img align="left" alt="jd-vallejos Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a  href="https://www.linkedin.com/in/jdvallejos/">
+<a  href="#">
   <img align="left" alt="jd-vallejos's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/JDiegox86">
